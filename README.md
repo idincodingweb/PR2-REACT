@@ -16,7 +16,7 @@ Jika Anda memiliki pertanyaan atau ingin berkolaborasi, jangan ragu untuk menghu
 - instagram : Idin_xml
 
 ## Live view
-
+https://idincodecoeg-larareacts-projects.vercel.app/
 
 ## 🌟 Ikuti Saya
 Untuk pembaruan lebih lanjut dan untuk melihat apa yang saya kerjakan:
